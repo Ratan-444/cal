@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  margin-top: 50px;
+}
+
+p {
+  font-size: 20px;
+  color: #333;
+}
